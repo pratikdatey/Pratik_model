@@ -53,7 +53,7 @@ And for Regression problem Lazyme can give an output of:
 
 
 # How to use it:
-- Download this Lazyme.py file from here and save it in your drive where Anaconda is located.
+- Download this Lazyme.py file and save it in your drive where Anaconda is located.
 - Then just write from Lazyme import smart_classifier, smart_regressor
 - Then use it on any dataset.
 
