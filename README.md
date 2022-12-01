@@ -59,7 +59,6 @@ And for Regression problem Lazyme can give an output of:
 
 # Model
 
-![image](1.png )
 
 ![image](2.png )
 
