@@ -57,9 +57,8 @@ And for Regression problem Lazyme can give an output of:
 - Then just write from Lazyme import smart_classifier, smart_regressor
 - Then use it on any dataset.
 
-# Model
-
-
+# Model Images
+![image](3.png )
 ![image](2.png )
 
 
