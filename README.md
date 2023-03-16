@@ -7,9 +7,11 @@
 - The best thing about this package is that you don’t have to train and predict every classification or regression algorithm to check performance. This package directly gives you output performance on different models.
 
 - In Lazyme there are two classes present which is smart_classifier(For Classification problems) and smart_regressor (for Regression problems).
+# Lazyme Package
+- In Lazyme Package.IPYNB you can see how to use it.
 
-Lazyme for
-# Classification: 
+
+# Lazyme for Classification: 
 Lazyme will check the performance on this Classification models:
 - Passive Aggressive Classifier
 - Decision Tree Classifier
@@ -37,7 +39,7 @@ And for classification problems Lazyme can give the output of:
 - Recall Score
 
 
-# Regression: 
+# Lazyme for Regression: 
 Similarly, Lazyme will check performance on this Regression model:
 - Passive Aggressive Regressor
 - Gradient Boosting Regressor
