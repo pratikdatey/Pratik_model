@@ -19,7 +19,11 @@ Lazyme will check the performance on this Classification models:
 - Ridge Classifier
 - K Neighbors Classifier
 - Support Vector Classification
-- Naive Bayes
+- Naive Bayes Classifier
+- LGBM Classifier
+- CatBoost Classifier
+- XGB Classifier
+
 
 And for classification problems Lazyme can give the output of:
 - Accuracy Score.
@@ -32,6 +36,7 @@ And for classification problems Lazyme can give the output of:
 - Precision Score
 - Recall Score
 
+
 # Regression: 
 Similarly, Lazyme will check performance on this Regression model:
 - Passive Aggressive Regressor
@@ -43,6 +48,10 @@ Similarly, Lazyme will check performance on this Regression model:
 - K Neighbors Regressor
 - Linear Regression
 - Support Vector Regression
+- LGBM Regressor
+- CatBoost Regressor
+- XGB Regressor
+
 
 And for Regression problem Lazyme can give an output of:
 - R2 Score.
