@@ -69,8 +69,8 @@ And for Regression problem Lazyme can give an output of:
 - Then use it on any dataset.
 
 # Model Images
-![image](3.png )
-![image](2.png )
+![image](model1.png )
+![image](model2.png )
 
 
 #                                                                                    Thank You!!.
