@@ -1,0 +1,87 @@
+Metadata-Version: 2.1
+Name: Pratik-model
+Version: 0.0.1
+Summary: This package directly gives you output performance on different models
+Home-page: 
+Author: pratik
+Author-email: pratikvdatey@gmail.com
+License: MIT
+Keywords: Pratik_model
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Description-Content-Type: # Pratik_model
+- This package can be used in machine learning (Data Science) to check the performance of models.
+
+- The best thing about this package is that you donâ€™t have to train and predict every classification or regression algorithm to check performance. This package directly gives you output performance on different models.
+
+- In Pratik_model
+ there are two classes present which is smart_classifier(For Classification problems) and smart_regressor (for Regression problems).
+
+
+Pratik_model for Classification: 
+
+ will check the performance on this Classification models:
+- Passive Aggressive Classifier
+- Decision Tree Classifier
+- Random Forest Classifier
+- Extra Trees Classifier
+- Logistic Regression
+- Ridge Classifier
+- K Neighbors Classifier
+- Support Vector Classification
+- Naive Bayes Classifier
+- LGBM Classifier
+- CatBoost Classifier
+- XGB Classifier
+
+
+And for classification problems Pratik_model can give the output of:
+- Accuracy Score.
+- Classification Report
+- Confusion Matrix
+- Cross validation (Cross validation score)
+- Mean Absolute Error
+- Mean Squared Error
+- Overfitting (will give accuracy of training and testing data.)
+- Precision Score
+- Recall Score
+
+
+Pratik_model for Regression: 
+
+Similarly, will check performance on this Regression model:
+- Passive Aggressive Regressor
+- Gradient Boosting Regressor
+- Decision Tree Regressor
+- Random Forest Regressor
+- Extra Trees Regressor
+- Lasso Regression
+- K Neighbors Regressor
+- Linear Regression
+- Support Vector Regression
+- LGBM Regressor
+- CatBoost Regressor
+- XGB Regressor
+
+
+And for Regression problem Pratik_model
+ can give an output of:
+- R2 Score.
+- Cross validation (Cross validation score)
+- Mean Absolute Error
+- Mean Squared Error
+- Overfitting (will give accuracy of training and testing data.)
+
+
+Thank You!!.
+
+
+Change Log
+==========
+
+0.0.1 (29/3/2022)
+-------------------
+- First Release
+License-File: LICENSE.txt

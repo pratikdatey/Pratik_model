@@ -21,6 +21,6 @@ setup(
     keywords='Pratik_model',
     packages=find_packages(),
     install_requires=['sklearn','lightgbm','catboost','xgboost'],
-    Source = "https://github.com/pratikdatey/Lazyme"
+    Source = "https://github.com/pratikdatey/Pratik_model"
    
 )

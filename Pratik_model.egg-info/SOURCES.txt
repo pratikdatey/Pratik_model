@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+Pratik_model/__init__.py
+Pratik_model.egg-info/PKG-INFO
+Pratik_model.egg-info/SOURCES.txt
+Pratik_model.egg-info/dependency_links.txt
+Pratik_model.egg-info/requires.txt
+Pratik_model.egg-info/top_level.txt
