@@ -14,7 +14,7 @@ setup(
     description='This package directly gives you output performance on different models',
     url='',
     license='MIT',
-    long_description=open('README.txt').read() + '\n\n' + open('ChangeLog.txt').read(),
+    long_description=open('README.md').read() + '\n\n' + open('ChangeLog.txt').read(),
     author='pratik',
     classifiers=classifiers,
     author_email='pratikvdatey@gmail.com',
