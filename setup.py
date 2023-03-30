@@ -20,5 +20,6 @@ setup(
     author_email='pratikvdatey@gmail.com',
     keywords='Lazyme',
     packages=find_packages(),
-    install_requires=['sklearn','lightgbm','catboost','xgboost']
+    install_requires=['sklearn','lightgbm','catboost','xgboost'],
+   
 )
