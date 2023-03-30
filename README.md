@@ -1,13 +1,18 @@
+
 # Pratik_model
 - This package can be used in machine learning (Data Science) to check the performance of models.
 
 - The best thing about this package is that you don’t have to train and predict every classification or regression algorithm to check performance. This package directly gives you output performance on different models.
 
+# How to use it
+- Check Lazyme_Package.ipynb file.
+
 - In Pratik_model
  there are two classes present which is smart_classifier(For Classification problems) and smart_regressor (for Regression problems).
 
 
-Pratik_model for Classification: 
+
+# Pratik_model for Classification: 
 
  will check the performance on this Classification models:
 - Passive Aggressive Classifier
@@ -36,7 +41,7 @@ And for classification problems Pratik_model can give the output of:
 - Recall Score
 
 
-Pratik_model for Regression: 
+# Pratik_model for Regression: 
 
 Similarly, will check performance on this Regression model:
 - Passive Aggressive Regressor
@@ -62,4 +67,4 @@ And for Regression problem Pratik_model
 - Overfitting (will give accuracy of training and testing data.)
 
 
-Thank You!!.
+# Thank You!!.
