@@ -1,15 +1,11 @@
 # Pratik_model
 - This package can be used in machine learning (Data Science) to check the performance of models.
-
 - The best thing about this package is that you don’t have to train and predict every classification or regression algorithm to check performance. This package directly gives you output performance on different models.
-
 - In Pratik_model
  there are two classes present which is smart_classifier(For Classification problems) and smart_regressor (for Regression problems).
 
-
 Pratik_model for Classification: 
-
- will check the performance on this Classification models:
+ This model will check performance on this Classification models:
 - Passive Aggressive Classifier
 - Decision Tree Classifier
 - Random Forest Classifier
@@ -22,8 +18,6 @@ Pratik_model for Classification:
 - LGBM Classifier
 - CatBoost Classifier
 - XGB Classifier
-
-
 And for classification problems Pratik_model can give the output of:
 - Accuracy Score.
 - Classification Report
@@ -35,9 +29,7 @@ And for classification problems Pratik_model can give the output of:
 - Precision Score
 - Recall Score
 
-
 Pratik_model for Regression: 
-
 Similarly, will check performance on this Regression model:
 - Passive Aggressive Regressor
 - Gradient Boosting Regressor
@@ -51,15 +43,16 @@ Similarly, will check performance on this Regression model:
 - LGBM Regressor
 - CatBoost Regressor
 - XGB Regressor
-
-
-And for Regression problem Pratik_model
- can give an output of:
+And for Regression problem Pratik_model can give an output of:
 - R2 Score.
 - Cross validation (Cross validation score)
 - Mean Absolute Error
 - Mean Squared Error
 - Overfitting (will give accuracy of training and testing data.)
 
+
+0.0.5 (29/3/2022)
+-------------------
+- First Release
 
 Thank You!!.
