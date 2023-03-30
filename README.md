@@ -1,18 +1,15 @@
-# Lazyme
-
-- I created my own package named Lazyme. (coz I am🥱🥱)
-
+# Pratik_model
 - This package can be used in machine learning (Data Science) to check the performance of models.
 
 - The best thing about this package is that you don’t have to train and predict every classification or regression algorithm to check performance. This package directly gives you output performance on different models.
 
-- In Lazyme there are two classes present which is smart_classifier(For Classification problems) and smart_regressor (for Regression problems).
-# Lazyme Package
-- In Lazyme Package.IPYNB you can see how to use it.
+- In Pratik_model
+ there are two classes present which is smart_classifier(For Classification problems) and smart_regressor (for Regression problems).
 
 
-# Lazyme for Classification: 
-Lazyme will check the performance on this Classification models:
+Pratik_model for Classification: 
+
+ will check the performance on this Classification models:
 - Passive Aggressive Classifier
 - Decision Tree Classifier
 - Random Forest Classifier
@@ -27,7 +24,7 @@ Lazyme will check the performance on this Classification models:
 - XGB Classifier
 
 
-And for classification problems Lazyme can give the output of:
+And for classification problems Pratik_model can give the output of:
 - Accuracy Score.
 - Classification Report
 - Confusion Matrix
@@ -39,8 +36,9 @@ And for classification problems Lazyme can give the output of:
 - Recall Score
 
 
-# Lazyme for Regression: 
-Similarly, Lazyme will check performance on this Regression model:
+Pratik_model for Regression: 
+
+Similarly, will check performance on this Regression model:
 - Passive Aggressive Regressor
 - Gradient Boosting Regressor
 - Decision Tree Regressor
@@ -55,7 +53,8 @@ Similarly, Lazyme will check performance on this Regression model:
 - XGB Regressor
 
 
-And for Regression problem Lazyme can give an output of:
+And for Regression problem Pratik_model
+ can give an output of:
 - R2 Score.
 - Cross validation (Cross validation score)
 - Mean Absolute Error
@@ -63,14 +62,4 @@ And for Regression problem Lazyme can give an output of:
 - Overfitting (will give accuracy of training and testing data.)
 
 
-# How to use it:
-- Download this Lazyme.py file and save it in your drive where Anaconda is located.
-- Then just write from lazyme import smart_classifier, smart_regressor
-- Then use it on any dataset.
-
-# Model Images
-![image](model1.png )
-![image](model2.png )
-
-
-#                                                                                    Thank You!!.
+Thank You!!.

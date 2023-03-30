@@ -9,17 +9,18 @@ classifiers = [  'Intended Audience :: Education',
 
 
 setup(
-    name='Lazyme',
+    name='Pratik_model',
     version='0.0.1',
     description='This package directly gives you output performance on different models',
     url='',
     license='MIT',
-    long_description=open('README.md').read() + '\n\n' + open('ChangeLog.txt').read(),
+    long_description_content_type =open('README.md').read() + '\n\n' + open('ChangeLog.txt').read(),
     author='pratik',
     classifiers=classifiers,
     author_email='pratikvdatey@gmail.com',
-    keywords='Lazyme',
+    keywords='Pratik_model',
     packages=find_packages(),
     install_requires=['sklearn','lightgbm','catboost','xgboost'],
+    Source = "https://github.com/pratikdatey/Lazyme"
    
 )
