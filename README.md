@@ -4,6 +4,32 @@
 
 # How to use it 
  Check Pratik_Model_Package.ipynb file on Github for referance.
+ 
+ For Classification
+* From Pratik_model import smart_classifier
+* model = smart_classifier(x,y)
+* model.accuracy_score()
+* model.classification_report()
+* model.confusion_matrix()
+* model.cross_validation()
+* model.mean_absolute_error()
+* model.precision_score()
+* model.recall_score()
+* model.mean_absolute_error()
+* model.mean_absolute_error()
+* model.mean_squared_error()
+* model.cross_validation()
+
+For Regression -
+
+* From Pratik_model import smart_regressor
+* model=smart_regressor(x,y)
+* model.r2_score()
+* model.mean_absolute_error()
+* model.mean_absolute_error()
+* model.mean_squared_error()
+* model.cross_validation()
+* model.overfitting()
 
 # Pratik_model for Classification: 
  will check the performance on this Classification models:
