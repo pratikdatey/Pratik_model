@@ -1,7 +1,6 @@
 
 # Pratik_model
-- The best thing about this package is that you don’t have to train and predict every classification or regression algorithm to check performance. 
-- This package directly gives you output performance on different models.
+- The best thing about this package is that you don’t have to train and predict every classification or regression algorithm to check performance. This package directly gives you output performance on 13 different algorithms.
 
 # How to use it 
  Check Pratik_Model_Package.ipynb file on Github for referance.
