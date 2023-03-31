@@ -4,7 +4,7 @@
 - This package directly gives you output performance on different models.
 
 # How to use it 
- Check Pratik_Model.ipynb file on Github for referance.
+ Check Pratik_Model_Package.ipynb file on Github for referance.
 
 # Pratik_model for Classification: 
  will check the performance on this Classification models:
