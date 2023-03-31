@@ -3,6 +3,8 @@
 - The best thing about this package is that you don’t have to train and predict every classification or regression algorithm to check performance. 
 - This package directly gives you output performance on different models.
 
+# How to use it 
+ Check Pratik_Model.ipynb file on Github for referance.
 
 # Pratik_model for Classification: 
  will check the performance on this Classification models:
@@ -58,7 +60,6 @@ And for Regression problem Pratik_model
 
 # First Release
 
--------------------
 0.0.2 (29/3/2022)
 
 # Thank You!!.
