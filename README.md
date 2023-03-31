@@ -1,11 +1,12 @@
+Pratik_model
+- The best thing about this package is that you do not have to train and predict every classification or regression algorithm to check performance.
+- This package directly gives you output performance on 13 different algorithms.
 
-# Pratik_model
-- The best thing about this package is that you don’t have to train and predict every classification or regression algorithm to check performance. This package directly gives you output performance on 13 different algorithms.
+How to use it  - 
+For Classification
+x= Independent variables
+y= Dependent variables
 
-# How to use it 
- Check Pratik_Model_Package.ipynb file on Github for referance.
- 
- For Classification
 * From Pratik_model import smart_classifier
 * model = smart_classifier(x,y)
 * model.accuracy_score()
@@ -31,8 +32,10 @@ For Regression -
 * model.cross_validation()
 * model.overfitting()
 
-# Pratik_model for Classification: 
- will check the performance on this Classification models:
+Check Pratik_Model_Package.ipynb file on Github for practical code.
+
+Pratik_model for Classification: 
+It will check the performance on this Classification models:
 - Passive Aggressive Classifier
 - Decision Tree Classifier
 - Random Forest Classifier
@@ -57,8 +60,8 @@ And for classification problems Pratik_model can give the output of:
 - Precision Score
 - Recall Score
 
-# Pratik_model for Regression: 
-Similarly, will check performance on this Regression model:
+Pratik_model for Regression: 
+Similarly, It will check performance on this Regression model:
 - Passive Aggressive Regressor
 - Gradient Boosting Regressor
 - Decision Tree Regressor
@@ -73,7 +76,7 @@ Similarly, will check performance on this Regression model:
 - XGB Regressor
 
 And for Regression problem Pratik_model
- can give an output of:
+can give an output of:
 - R2 Score.
 - Cross validation (Cross validation score)
 - Mean Absolute Error
@@ -81,10 +84,7 @@ And for Regression problem Pratik_model
 - Overfitting (will give accuracy of training and testing data.)
 
 
+First Release
+0.0.7 (29/3/2022)
 
-
-# First Release
-
-0.0.2 (29/3/2022)
-
-# Thank You!!.
+Thank You!!.
