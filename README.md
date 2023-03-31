@@ -55,9 +55,10 @@ And for Regression problem Pratik_model
 
 
 
-0.0.2 (29/3/2022)
--------------------
-- First Release
 
+# First Release
+
+-------------------
+0.0.2 (29/3/2022)
 
 # Thank You!!.
