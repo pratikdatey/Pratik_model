@@ -6,7 +6,6 @@ from sklearn.tree import DecisionTreeClassifier,DecisionTreeRegressor
 from sklearn.svm import SVC,SVR
 from sklearn.naive_bayes import GaussianNB
 from sklearn.neighbors import KNeighborsClassifier,KNeighborsRegressor
-from lightgbm import LGBMClassifier,LGBMRegressor
 from catboost import CatBoostClassifier,CatBoostRegressor
 from xgboost import XGBClassifier,XGBRegressor
 
@@ -24,7 +23,6 @@ gbc=GaussianNB()
 knn=KNeighborsClassifier()
 pacc=PassiveAggressiveClassifier(random_state=42)
 rc=RidgeClassifier(random_state=42)
-lgbmc=LGBMClassifier(random_state=42)
 hgbc=HistGradientBoostingClassifier(random_state=42,verbose=0)
 xgbc=XGBClassifier(random_state=42,verbosity = 0)
 cbc=CatBoostClassifier(random_state=42,verbose=0)
@@ -43,7 +41,6 @@ knnr=KNeighborsRegressor()
 dtr=DecisionTreeRegressor(random_state=42)
 pacr=PassiveAggressiveRegressor(random_state=42,average=3)
 las=Lasso(random_state=42)
-lgbmr=LGBMRegressor(random_state=42)
 hgbr=HistGradientBoostingRegressor(random_state=42)
 xgbr=XGBRegressor(random_state=42,verbosity = 0)
 cbr=CatBoostRegressor(random_state=42,verbose=0)
@@ -52,8 +49,8 @@ cbr=CatBoostRegressor(random_state=42,verbose=0)
 
 
 
-name=[hgbc,pacc,dc,rfc,exc,logreg,rc,lgbmc,knn,svc,cbc,xgbc,gbc]
-name_r=[pacr,hgbr,gbr,dtr,rfr,ext,lgbmr,las,knnr,linereg,cbr,xgbr,svr]
+name=[hgbc,pacc,dc,rfc,exc,logreg,rc,knn,svc,cbc,xgbc,gbc]
+name_r=[pacr,hgbr,gbr,dtr,rfr,ext,las,knnr,linereg,cbr,xgbr,svr]
 
 
 

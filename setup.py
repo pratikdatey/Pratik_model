@@ -10,7 +10,7 @@ classifiers = [  'Intended Audience :: Education',
 
 setup(
     name='Pratik_model',
-    version='0.1.0',
+    version='0.1.1',
     description='This package directly gives you output performance on 13 different algorithms',
     url='',
     license='MIT',
@@ -19,7 +19,7 @@ setup(
     classifiers=classifiers,
     author_email='pratikvdatey@gmail.com',
     keywords='Pratik_model',
-    install_requires=['sklearn','lightgbm','catboost','xgboost'],
+    install_requires=['sklearn','catboost','xgboost'],
     project_urls= {'source_code' : "https://github.com/pratikdatey/Pratik_model"
                    }
    
