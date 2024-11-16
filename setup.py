@@ -10,16 +10,17 @@ classifiers = [  'Intended Audience :: Education',
 
 setup(
     name='Pratik_model',
-    version='0.1.1',
-    description='This package directly gives you output performance on 13 different algorithms',
+    version='0.1.6',
+    description='This package directly gives you output performance on 12 different algorithms',
     url='',
     license='MIT',
     author='pratik',
-    long_description_content_type = open('README.md').read(),
+    long_description = open('README.md').read(),
+    long_description_content_type="text/markdown",
     classifiers=classifiers,
     author_email='pratikvdatey@gmail.com',
     keywords='Pratik_model',
-    install_requires=['sklearn','catboost','xgboost'],
+    install_requires=['scikit-learn','catboost','xgboost'],
     project_urls= {'source_code' : "https://github.com/pratikdatey/Pratik_model"
                    }
    
